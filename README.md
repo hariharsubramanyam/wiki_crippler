@@ -1,4 +1,4 @@
 wiki-cripler
 ============
 
-Wikipedia Cripler
+Wikipedia Crippler - team project for JPL ops lab hackathon
