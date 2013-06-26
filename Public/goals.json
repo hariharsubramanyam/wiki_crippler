@@ -1,0 +1,27 @@
+{"success":"true",
+"goals":[{
+	"name": "JPL",
+	"url": "http://en.wikipedia.org/wiki/Jpl",
+	"point": 10
+},
+{
+	"name": "Astronomical unit",
+	"url": "#astronomical_unit",
+	"point": 18
+},
+{
+	"name": "Vega",
+	"url": "#vega",
+	"point": 25
+},
+{
+	"name": "Color temperature",
+	"url": "#color_temperature",
+	"point": 12
+},
+{
+	"name": "Film stock",
+	"url": "#film_stock",
+	"point": 10
+}
+]}

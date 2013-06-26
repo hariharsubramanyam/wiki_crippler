@@ -1,0 +1,26 @@
+.dangerColor {
+   color:red;
+}
+
+.successColor {
+   color:green;
+}
+
+.generalColor {
+    color:blue;
+}
+
+iframe{
+    height: 500px;
+    width: 740px;
+}
+
+
+.goalList{
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+#cytoscapeweb{
+    height: 500px;
+}
